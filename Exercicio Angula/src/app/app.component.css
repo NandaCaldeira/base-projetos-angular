@@ -1,0 +1,25 @@
+div {
+    height: 250px;
+    width: 400px;
+    border: 5px #ff408070 solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #812042;
+    text-shadow: 1px #81204270;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+b {
+    font-size: 60px;
+    color: #812042;
+}
